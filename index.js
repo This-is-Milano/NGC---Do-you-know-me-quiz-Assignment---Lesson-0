@@ -80,7 +80,6 @@ for (var i=0; i<highScores.length; i++) {
   console.log(chalk.yellow("If you think you have more score than these, share a screenshot and we will update it.  Thankls for participating in the quiz"));
 }
 
-
 welcome();
 game();
 showScores();
